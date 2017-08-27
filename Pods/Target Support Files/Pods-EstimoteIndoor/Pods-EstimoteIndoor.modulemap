@@ -1,0 +1,6 @@
+framework module Pods_EstimoteIndoor {
+  umbrella header "Pods-EstimoteIndoor-umbrella.h"
+
+  export *
+  module * { export * }
+}
